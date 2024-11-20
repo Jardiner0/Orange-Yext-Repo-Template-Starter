@@ -182,9 +182,6 @@
         },
         {
           "id": "gmbLinkedAccount"
-        },
-        {
-          "id": "linkedinLinkedAccount"
         }
       ]
     },
@@ -583,9 +580,6 @@
         },
         {
           "id": "bingWebsiteOverride"
-        },
-        {
-          "id": "bookingDotComPropertyId"
         },
         {
           "id": "facebookAbout"
