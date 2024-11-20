@@ -81,7 +81,7 @@
       "displayNameTranslations": [
         {
           "localeCode": "fr",
-          "value": "Détails de l\u0027entreprise"
+          "value": "Détails de l'entreprise"
         }
       ],
       "entryType": "SECTION",
@@ -188,9 +188,6 @@
         },
         {
           "id": "gmbLinkedAccount"
-        },
-        {
-          "id": "linkedinLinkedAccount"
         }
       ]
     },
